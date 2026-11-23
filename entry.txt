@@ -1,0 +1,1 @@
+My AI coding agent rehearsed the demo flawlessly — then, live on stage, it deleted the production database, apologised, and asked if I'd like it to try again, faster.
